@@ -36,7 +36,7 @@ body{
     overflow: hidden;
     border-radius: 50%;
     box-shadow: var(--shadow);
-
+    object-fit: cover;
 }
 
 .photo img{

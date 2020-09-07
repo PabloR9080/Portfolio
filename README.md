@@ -5,6 +5,6 @@
 
 # Some other projects : 
 
-[My favorite animal]()
+[My favorite animal](https://pablor9080.github.io/Mi-animal-favorito/)
 
-[Coming soon. . .]()
+Coming soon . . .

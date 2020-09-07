@@ -16,12 +16,12 @@
     --shadow: 0 10px 10px rgba(0,0,0,0.35);
 }
 body{
-    background-color: var(--bg);
+    background-color: #AFA98D;
     color: var(--fg);
     font-family: 'Poppins', sans-serif;
 }
 .card{
-    background-color: var(--cardbg);
+    background-color: #6D8EA0;
     width: 45%;
     padding:50px;
     margin: 5% auto;
@@ -51,14 +51,14 @@ ul a{
 
 }
 ul a:visited{
-    color:grey;
+    color:#182825;
 }
 ul a:active{
     color:#141414;
   
 }
 .text{
-    font-weight: 150;
+    font-weight: 350;
 }
 .greeting {
     margin-top: 15px;
@@ -89,7 +89,7 @@ ul a:active{
 .button{
     margin-top: 20px;
     text-decoration: none;
-    background-color: var(--buttonbf);
+    background-color: #016FB9;
     color: var(--fg);
     padding: 10px;
     border-radius: var(--border);
@@ -100,7 +100,7 @@ ul a:active{
 .button:hover{
     transition: all 0.5s ease-out;
     margin-bottom: 10px;
-    background-color: #141414;
+    background-color: #182825;
     border-color: #EEE;
     color:whitesmoke;
     box-shadow: 5px 12px 6px rgba(0,0,0,0.35);
@@ -110,7 +110,8 @@ ul a:active{
 }
 
 .photo:hover{
-    transition: all 0.3s ease-in;
-    box-shadow: 2px 20px 20px rgba(0,0,210,0.35);
-
+    transition: all 1.5s ease-in;
+    box-shadow: 2px 20px 20px #182825;
+    transform: rotate(360deg);
+    
 }
